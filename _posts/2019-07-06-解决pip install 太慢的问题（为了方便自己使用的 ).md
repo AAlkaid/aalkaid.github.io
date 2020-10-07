@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      快速搭建个人博客
+title:      pip install 替换源
 subtitle:   pip install 替换源 （为了让pip的速度更快）
 date:       2019-07-06
 author:     buzhenyu
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    - Blog
+    - 一些开发小技巧
 ---
 
 pip install 替换源
