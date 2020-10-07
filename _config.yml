@@ -60,7 +60,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 8d99876d90f6729e6b4a                        #生成的clientID
-  clientSecret: c9fa6581e07b2ad9a4ebda66b0047cc1c512ebc7   #生成的clientSecret
+  clientSecret: 38d08e4e75fdd42cd6b5b3187d410c9846d26792   #生成的clientSecret
   repo: 'http://zhenyubu.github.io'   #仓库名称
   owner: AAlkaid    #github用户名
   admin: AAlkaid
