@@ -1,10 +1,10 @@
 # Site settings
-title: 记事本
+title: 我的笔记本
 SEOTitle: 卜朕禹的个人博客
 header-img: img/post-bg-desk.jpg
 email: zhenyubu@163.com
 description: "Every failure is leading towards success."
-keyword: "卜朕禹的博客 JAVA"
+keyword: "卜朕禹的博客"
 url: "http://zhenyubu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhenyubu/zhenyubu.github.io.git" # you code repository
@@ -79,7 +79,6 @@ ga_domain: zhenyubu.com               # 默认的是 auto, 这里我是自定义
 
 
 
-
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
@@ -95,11 +94,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "Baidu",
         href: "http://baidu.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
         title: "Apple",
         href: "https://apple.com"
