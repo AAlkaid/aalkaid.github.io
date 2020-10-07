@@ -61,7 +61,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Iv1.894b81e2d2f1921f                          #生成的clientID
   clientSecret: c6f91d482eb48f426432c951f1b4fe15932d91e1   #生成的clientSecret
-  repo: zhenyubu.com    #仓库名称
+  repo: 'zhenyubu.github.io'   #仓库名称
   owner: AAlkaid    #github用户名
   admin: AAlkaid
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
